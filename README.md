@@ -15,7 +15,7 @@ docker-compose up -d
 docker-compose exec mysql bash
 cd /bitnami/mysql
 mysql -u root -p
-[senha vazia]
+[senha em branco]
 ```
 
 ## Referências
